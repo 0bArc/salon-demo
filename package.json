@@ -1,0 +1,17 @@
+{
+  "name": "salon-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small hair salon website: services and prices, online booking, and a list of bookings saved in PostgreSQL.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.5.28",
+    "pg": "8.13.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  }
+}
